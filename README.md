@@ -1,1 +1,1 @@
-# Student-Management-System With Raw PHP
+# Student Management System With Raw PHP
