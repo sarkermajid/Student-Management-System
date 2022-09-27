@@ -1,6 +1,6 @@
 # Student Management System With Raw PHP
 
-## Descriptions
+## Project Descriptions
 
 #Admin
 1. Admin can add new students with proper information like name, email, roll number, department, and image.
